@@ -2,7 +2,7 @@
 
 I'm Putra Cendikia Subekti
 <p>Still Learning to Code</p>
-<p>Interest to Mobile App Development</p>
+<p>Interest to Web & Mobile App Development</p>
 Fresh Graduate from Informatics at Institut Teknologi Kalimantan
 <p></p>
 <p align="left">
